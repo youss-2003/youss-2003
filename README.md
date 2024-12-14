@@ -72,12 +72,15 @@
 ###
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=youss-2003&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+###
 <br clear="both">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 <img src="https://raw.githubusercontent.com/youss-2003/youss-2003/output/snake.svg" alt="Snake animation" />
 </picture>
+
+###
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
